@@ -15,10 +15,11 @@
         <plugins>
             <plugin>
                 <artifactId>maven-jar-plugin</artifactId>
+                <version>3.1.1</version>
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>pers.wilson.cpucontrol.Application</mainClass>
+                            <mainClass>pers.wilson.threadstop.demo.ThreadStopApplication</mainClass>
                             <addClasspath>true</addClasspath>
                         </manifest>
                         <manifestEntries>
@@ -26,7 +27,6 @@
                         </manifestEntries>
                     </archive>
                 </configuration>
-                <version>3.1.1</version>
             </plugin>
         </plugins>
     </build>
