@@ -1,5 +1,4 @@
-# spi-demo
-## 简单的java例子
+# simple-demo（一些简单的java demo）
 
 ### 测试阻塞队列：
 BlockingQueueTest
