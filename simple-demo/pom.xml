@@ -18,5 +18,11 @@
             <artifactId>mail</artifactId>
             <version>1.4.7</version>
         </dependency>
+<!--        jasypt加解密-->
+        <dependency>
+            <groupId>org.jasypt</groupId>
+            <artifactId>jasypt</artifactId>
+            <version>1.9.3</version>
+        </dependency>
     </dependencies>
 </project>
