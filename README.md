@@ -3,3 +3,4 @@
 ## simple-demo（简单的java例子）
 ## spi-demo（Java SPI机制demo）
 ## thread-stop-demo（Java线程终止demo）
+## upload-ftp-demo（FTP文件上传demo）

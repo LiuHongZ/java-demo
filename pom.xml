@@ -39,5 +39,6 @@
         <module>simple-demo</module>
         <module>spi-demo</module>
         <module>thread-stop-demo</module>
+        <module>upload-ftp-demo</module>
     </modules>
 </project>
