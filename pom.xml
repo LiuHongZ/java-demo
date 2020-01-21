@@ -9,6 +9,15 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>
@@ -21,6 +30,8 @@
         </plugins>
     </build>
     <modules>
+        <module>lombok-demo</module>
+        <module>simple-demo</module>
         <module>spi-demo</module>
     </modules>
 </project>
