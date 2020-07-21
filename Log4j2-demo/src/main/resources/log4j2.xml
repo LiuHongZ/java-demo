@@ -2,7 +2,7 @@
 <Configuration status="debug" strict="true" name="XMLConfigTest"
                packages="org.apache.logging.log4j.test">
     <Properties>
-        <Property name="filename">log4j2-logs/app-info.log</Property>
+        <Property name="filename">logs/app-info.log</Property>
     </Properties>
     <Filter type="ThresholdFilter" level="trace"/>
 
