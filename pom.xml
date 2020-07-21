@@ -35,6 +35,7 @@
         </plugins>
     </build>
     <modules>
+        <module>Log4j2-demo</module>
         <module>logback-demo</module>
         <module>simple-demo</module>
         <module>spi-demo</module>
