@@ -1,3 +1,5 @@
+package pers.wilson.simple.demo;
+
 import org.jasypt.encryption.pbe.StandardPBEStringEncryptor;
 
 import java.util.function.Consumer;

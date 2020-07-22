@@ -1,3 +1,5 @@
+package pers.wilson.simple.demo;
+
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 

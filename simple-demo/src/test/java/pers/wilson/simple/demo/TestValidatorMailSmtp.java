@@ -1,3 +1,5 @@
+package pers.wilson.simple.demo;
+
 import javax.mail.AuthenticationFailedException;
 import javax.mail.MessagingException;
 import javax.mail.Session;
