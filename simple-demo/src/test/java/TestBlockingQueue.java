@@ -8,7 +8,7 @@ import java.util.concurrent.LinkedBlockingQueue;
  * @version 1.0
  * @since 1.0
  */
-public class BlockingQueueTest {
+public class TestBlockingQueue {
 
     private static BlockingQueue<String> filequeue = new LinkedBlockingQueue<>(1000);
 

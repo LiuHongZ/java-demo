@@ -1,10 +1,10 @@
 # simple-demo（一些简单的java demo）
 
 ### 测试阻塞队列：
-BlockingQueueTest
+TestBlockingQueue
 ### jasypt加解密：
-JasyptEncryptionTest
+TestJasyptEncryption
 ### 测试JVM自动优化重复异常日志：
-NullPointerExceptionStackTraceThiefTest
+TestNullPointerExceptionStackTraceThief
 ### 验证Smtp邮箱服务是否可用：
-ValidatorMailSmtpTest
+TestValidatorMailSmtp

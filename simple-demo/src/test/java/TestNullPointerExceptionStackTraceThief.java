@@ -5,7 +5,7 @@
  * @version 1.0
  * @since 1.0
  */
-public class NullPointerExceptionStackTraceThiefTest {
+public class TestNullPointerExceptionStackTraceThief {
 
     public static void main(String[] args) {
         String x = null;

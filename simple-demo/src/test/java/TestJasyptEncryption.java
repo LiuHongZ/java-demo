@@ -9,7 +9,7 @@ import java.util.function.Consumer;
  * @version 1.0
  * @since 1.0
  */
-public class JasyptEncryptionTest {
+public class TestJasyptEncryption {
 
     /**
      * 密钥
