@@ -8,3 +8,7 @@ pers.wilson.simple.demo.TestJasyptEncryption
 pers.wilson.simple.demo.TestNullPointerExceptionStackTraceThief
 ### 验证Smtp邮箱服务是否可用：
 pers.wilson.simple.demo.TestValidatorMailSmtp
+### 测试文件压缩：
+pers.wilson.simple.demo.TestFileCompression
+### 测试文件操作：
+pers.wilson.simple.demo.TestFileOperation
