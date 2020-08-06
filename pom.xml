@@ -37,6 +37,7 @@
     <modules>
         <module>Log4j2-demo</module>
         <module>logback-demo</module>
+        <module>poi-demo</module>
         <module>simple-demo</module>
         <module>spi-demo</module>
         <module>thread-stop-demo</module>
